@@ -1,3 +1,4 @@
+/*TIPOGRAFÍA*/
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -5,6 +6,7 @@ body {
     padding: 20px;
 }
 
+/*COLOR DE FONDO*/
 .container {
     max-width: 600px;
     margin: auto;
@@ -14,10 +16,12 @@ body {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
+/*ALINEACIÓN DEL TEXTO*/
 h1 {
     text-align: center;
 }
 
+/*ACOMODO DE LETRAS Y RECUADROS PARA EL DISEÑO DE LA PÁGINA*/
 input {
     width: 80%;
     padding: 10px;
@@ -40,6 +44,7 @@ li {
     border-bottom: 1px solid #ccc;
 }
 
+/*FONDO DE ACCIÓN PARA BOTÓN DE ELIMINAR*/
 li button {
     background: red;
     color: white;
